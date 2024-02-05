@@ -1,0 +1,14 @@
+/* Write your code here. */
+.image-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  list-style-type: none;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+  opacity: 0.5;
+}
